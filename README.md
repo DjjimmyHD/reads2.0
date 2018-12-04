@@ -66,17 +66,17 @@ ID,Book Title,Book Genre,Book Description,Book Cover URL,Author 1 First Name,Aut
 
 You can use these wireframes as a reference.
 
-![Index](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Homepage.png)
-![Books - List](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+List.png)
-![Books - Read](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+Read.png)
-![Books - New](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+New.png)
-![Books - Edit](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+Edit.png)
-![Books - Delete](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Book+Delete.png)
-![Authors - List](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+List.png)
-![Authors - Read](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+Read.png)
-![Authors - New](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+New.png)
-![Authors - Edit](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+Edit.png)
-![Authors - Delete](https://s3-us-west-2.amazonaws.com/assessment-images/galvanize_reads/Galvanize+Reads+Author+Delete.png)
+![Index](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/732/greads_-_index.png)
+![Books - List](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/738/greads_-_book_list.png)
+![Books - Read](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/736/greads_-_book_read.png)
+![Books - New](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/740/greads_-_book_new.png)
+![Books - Edit](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/735/greads_-_book_edit.png)
+![Books - Delete](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/733/greads_-_book_delete.png)
+![Authors - List](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/734/greads_-_author_list.png)
+![Authors - Read](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/731/greads_-_author_read.png)
+![Authors - New](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/741/greads_-_author_new.png)
+![Authors - Edit](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/737/greads_-_author_edit.png)
+![Authors - Delete](https://students-gschool-production.s3.amazonaws.com/uploads/asset/file/739/greads_-_author_delete.png)
 
 ## How to Submit Your Assessment
 
